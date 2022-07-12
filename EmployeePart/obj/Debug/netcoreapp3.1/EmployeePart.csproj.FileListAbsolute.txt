@@ -1,0 +1,14 @@
+C:\Users\SANGMESH\source\repos\EmployeePart\EmployeePart\obj\Debug\netcoreapp3.1\EmployeePart.csproj.AssemblyReference.cache
+C:\Users\SANGMESH\source\repos\EmployeePart\EmployeePart\obj\Debug\netcoreapp3.1\EmployeePart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANGMESH\source\repos\EmployeePart\EmployeePart\obj\Debug\netcoreapp3.1\EmployeePart.AssemblyInfoInputs.cache
+C:\Users\SANGMESH\source\repos\EmployeePart\EmployeePart\obj\Debug\netcoreapp3.1\EmployeePart.AssemblyInfo.cs
+C:\Users\SANGMESH\source\repos\EmployeePart\EmployeePart\obj\Debug\netcoreapp3.1\EmployeePart.csproj.CoreCompileInputs.cache
+C:\Users\SANGMESH\source\repos\EmployeePart\EmployeePart\bin\Debug\netcoreapp3.1\EmployeePart.exe
+C:\Users\SANGMESH\source\repos\EmployeePart\EmployeePart\bin\Debug\netcoreapp3.1\EmployeePart.deps.json
+C:\Users\SANGMESH\source\repos\EmployeePart\EmployeePart\bin\Debug\netcoreapp3.1\EmployeePart.runtimeconfig.json
+C:\Users\SANGMESH\source\repos\EmployeePart\EmployeePart\bin\Debug\netcoreapp3.1\EmployeePart.runtimeconfig.dev.json
+C:\Users\SANGMESH\source\repos\EmployeePart\EmployeePart\bin\Debug\netcoreapp3.1\EmployeePart.dll
+C:\Users\SANGMESH\source\repos\EmployeePart\EmployeePart\bin\Debug\netcoreapp3.1\EmployeePart.pdb
+C:\Users\SANGMESH\source\repos\EmployeePart\EmployeePart\obj\Debug\netcoreapp3.1\EmployeePart.dll
+C:\Users\SANGMESH\source\repos\EmployeePart\EmployeePart\obj\Debug\netcoreapp3.1\EmployeePart.pdb
+C:\Users\SANGMESH\source\repos\EmployeePart\EmployeePart\obj\Debug\netcoreapp3.1\EmployeePart.genruntimeconfig.cache
